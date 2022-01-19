@@ -1,5 +1,5 @@
 // İki sayı birbirinin kendisi hariç pozitif bölenleri toplamına eşitse bu sayılara arkadaş sayılar denir.
-// En küçük arkadaş sayı çifti 200 ve 284'tür. Bu iki sayı arkadaş sayıdır çünkü 220'nin kendisi hariç pozitif bölenlerinin toplamı 284'e, 284'ün kendisi hariç pozitif bölenlerinin toplamı 220'ye eşittir.
+// En küçük arkadaş sayı çifti 220 ve 284'tür. Bu iki sayı arkadaş sayıdır çünkü 220'nin kendisi hariç pozitif bölenlerinin toplamı 284'e, 284'ün kendisi hariç pozitif bölenlerinin toplamı 220'ye eşittir.
 
 // Fonksiyonun içinde 2 parametre yollayacağız (a,b)
 // a'nın kendisi hariç pozitif bölenlerinin toplamının değerini tutmak için bir variable assign edeceğiz. (counta)
